@@ -1,3 +1,7 @@
+# test coverate package
+.coverage
+htmlcov/
+
 # pycharm ftw
 .idea
 
