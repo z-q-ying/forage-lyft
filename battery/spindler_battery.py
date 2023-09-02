@@ -1,7 +1,7 @@
 from battery.battery import Battery
 from dateutil.relativedelta import relativedelta
 
-SERVICE_INTERVAL = 2  # years
+SERVICE_INTERVAL = 3  # years
 
 
 class SpindlerBattery(Battery):
