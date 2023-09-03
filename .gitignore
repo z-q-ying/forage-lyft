@@ -1,3 +1,7 @@
+# pdf files and other resources
+*.pdf
+resources/
+
 # test coverate package
 .coverage
 htmlcov/
