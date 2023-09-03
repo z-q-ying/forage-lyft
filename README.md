@@ -44,3 +44,6 @@ The tire servicing criteria have been successfully implemented, showcasing the p
 
 ### Extensibility 🛠️
 The system is architected for **extensibility**. This makes it simple to introduce new criteria for servicing, or even add new car models to the fleet. As a case in point, criteria for tire servicing can be incorporated into the system without much hassle.
+
+### Certificate of Completion
+Feel free to check out my certificate of completion [here](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Lyft/xSw9echtixLAoPdsH_Lyft_XH88dvsP4RZbP5AAk_1693698920990_completion_certificate.pdf) 🏆 !
